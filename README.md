@@ -15,9 +15,13 @@ Game ini menggunakan Library
 - unduh vcxsrv sebagai GUI untuk menjalankan game ini [klik disini](https://downloads.sourceforge.net/project/vcxsrv/vcxsrv/1.20.14.0/vcxsrv-64.1.20.14.0.installer.exe?ts=gAAAAABikM4htiS-mb2njw45IMlr5iPITdvV6w5QqC2tlvxcF5u9QUvHH742ZgREwNiP9q8K8-TvhIPFacna04QFFrmqVtzk7A%3D%3D&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fvcxsrv%2Ffiles%2Flatest%2Fdownload)
 - jalankan vcxsrv seperti gambar 
 <img src="data/xlaunch1.png" align="left" />
+
 <img src="data/xlaunch2.png" align="left" />
+
 <img src="data/xlaunch3.png" align="left" />
+
 <img src="data/xlaunch4.png" align="left" />
+
 - kemudian buka folder dengan vscode 
 - sebelum lanjut pastikan docker sudah aktif
 - pergi ke Terminal dan jalankan syntax berikut untuk build docker
