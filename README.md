@@ -27,7 +27,11 @@ Game ini menggunakan Library
 ```
 docker build -t invasiufo .
 ```
-- proses build sudah selesai, selanjutnya masuk kedalam images dengan syntax berikut
+- proses build sudah selesai, untuk cek images yang dibuat jalankan syntax berikut maka akan terlihat images `invasiufo` yang menandakan proses build berhasil
+```
+docker images
+``` 
+- selanjutnya jalankan container dengan syntax berikut
 ```
 docker run --privileged -it --rm --cap-add=SYS_PTRACE -u 0:0 -e DISPLAY=192.168.1.4:0.0 -v /d/InvasiUFO:/home/apps invasiufo /bin/bash
 ```
