@@ -48,6 +48,4 @@ python main.py
 ```
 
 ## Demo Container
-<div align="center">
 [![HERE THE TUTORIAL](http://i3.ytimg.com/vi/L3DLqjyIIXM/hqdefault.jpg)](https://youtu.be/L3DLqjyIIXM)
-</div>
