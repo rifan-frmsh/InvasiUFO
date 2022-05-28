@@ -36,8 +36,9 @@ docker images
 ``` 
 - selanjutnya jalankan container dengan syntax berikut
 ```
-docker run --privileged -it --rm --cap-add=SYS_PTRACE -u 0:0 -e DISPLAY=192.168.1.4:0.0 -v /d/InvasiUFO:/home/apps invasiufo /bin/bash
+docker run --privileged -it --rm --cap-add=SYS_PTRACE -u 0:0 -e DISPLAY=192.168.1.4:0.0 -v /d/InvasiUFO-main:/home/apps invasiufo /bin/bash
 ```
+untuk `DISPLAY` sesuaikan dengan ip yang anda punya
 - lalu ketik `ls` untuk melihat file yang ada di dalam container, jika build sukses maka terlihat beberapa file dari program game ini
 - terakhir jalankan syntax berikut untuk memulai game
 ```
