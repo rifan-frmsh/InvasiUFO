@@ -14,13 +14,10 @@ Game ini menggunakan Library
 - Unduh repository dengan [klik disini](https://github.com/rifan-frmsh/InvasiUFO/archive/refs/heads/main.zip) lalu pindahkan file tersebut ke disk `(D:)`
 - unduh vcxsrv sebagai GUI untuk menjalankan game ini [klik disini](https://downloads.sourceforge.net/project/vcxsrv/vcxsrv/1.20.14.0/vcxsrv-64.1.20.14.0.installer.exe?ts=gAAAAABikM4htiS-mb2njw45IMlr5iPITdvV6w5QqC2tlvxcF5u9QUvHH742ZgREwNiP9q8K8-TvhIPFacna04QFFrmqVtzk7A%3D%3D&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fvcxsrv%2Ffiles%2Flatest%2Fdownload)
 - jalankan vcxsrv seperti gambar
-<div align="center" 
+<div align="center"> 
 <img src="data/xlaunch1.png" />
-
 <img src="data/xlaunch2.png" />
-
 <img src="data/xlaunch3.png" />
-
 <img src="data/xlaunch4.png" />
 </div>
 
